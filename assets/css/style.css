@@ -1,0 +1,77 @@
+.container{
+    background-image: url("../images/concrete_seamless.png");
+    height: 50%;
+}
+
+.first{
+  
+  background-color:orange;
+  height: 90px;
+  margin-top: 10px;
+  margin-right: 40px;
+  
+  
+}
+.second{
+    background-color:purple;
+    height: 500px;
+    padding-top: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+.totalWL{
+    background-color:blue;
+    position: relative;
+    color:white;
+  
+}
+
+.four{
+    background-color:pink;
+    height: 90px;
+
+
+}
+.five{
+    background-color: #4aaaa5;
+    height: 25px;
+    margin-bottom: 10px;
+    color: white;
+}
+.six{
+    background-color: #4aaaa5;
+    height: 100px;
+    margin-bottom: 15px;
+    color:white;
+}
+
+h1{
+    font-size: medium;
+    color: white;
+    text-align: center;
+    line-height: 80px;
+    font-size: 20px;
+}
+
+#buttonpurple{
+    margin-left: 35px;
+    
+}
+#buttongreen{
+    margin-left: 35px;
+}
+#buttonblue{
+    margin-left: 35px;
+}
+.randomNumber {
+    padding: 3%;
+    background-color: white;
+    opacity: 0.6;
+    color:black;
+    font-size: 125%;
+    font-family: 'Lobster', cursive, 'sans-serif';
+    background-color: #4aaaa5;
+    height:100px;
+    margin-right: 5px;
+ }
